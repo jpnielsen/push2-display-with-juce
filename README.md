@@ -54,7 +54,7 @@ On Linux, you will also need to
 
 Clone the repo (including the submodules for JUCE and libusb):
 
-`git clone --recurse-submodules https://github.com/Ableton/push2-display-with-juce.git`
+`git clone --recurse-submodules https://github.com/jpnielsen/push2-display-with-juce.git`
 
 
 ### Building ###
@@ -92,6 +92,3 @@ If you would like to quickly hack some drawing of your own, have a look at the
 
 ### Maintainers ###
 
-* [@mre-ableton](https://github.com/mre-ableton)
-
-Happy coding!
