@@ -1,3 +1,5 @@
+.vs/
+Builds/LinuxMakefile/build/
 Builds/MacOSX/build/
 Builds/VisualStudio2019/Debug/
 Builds/VisualStudio2019/Release/
