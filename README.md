@@ -1,5 +1,12 @@
 # README #
 
+to build using VS2019, git clone and edit 
+ \modules\libusb\libusb\os\threads_windows.h
+ 
+https://github.com/libusb/libusb/issues/755
+
+## Included README from Ableton ##
+
 ## About this repository ##
 
 This repository contains C++ source code that demonstrates how to communicate
